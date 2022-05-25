@@ -1,0 +1,24 @@
+#bc{
+   background-image: url();
+
+}
+.glass img{
+    margin-top: 50px;
+    width: 50%;
+}
+
+.textContainer button{
+    margin-left: 40%;
+    margin-bottom: 30%;
+}
+.modelImg{
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.button:hover{
+   color: white;
+}
+.home_img img{
+   border-radius: 45%;
+   }
